@@ -2646,7 +2646,7 @@ hr {
 }
 
 .header-area .main-header .main-menu ul li a {
-    color: #74a662;
+    color: #fff;
     font-weight: 400;
     padding: 39px 27px;
     display: block;
@@ -2836,7 +2836,7 @@ hr {
 
 .slider-area {
     position: relative;
-    background-image: url(../img/hero/hero.png);
+    background-image: url(../img/hero/hero.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover
