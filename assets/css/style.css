@@ -3545,7 +3545,7 @@ hr {
 
 .team-area .single-team .team-caption span {
     color: #112957;
-    font-size: 24px;
+    font-size: 21px;
     font-weight: 300;
     font-family: "Muli", sans-serif;
     display: block;
@@ -3553,9 +3553,9 @@ hr {
 }
 
 .team-area .single-team .team-caption h3 a {
-    color: #161e46;
+    color: #74a662;
     font-weight: 700;
-    font-size: 25px
+    font-size: 18px
 }
 
 .single-team:hover .team-caption {
